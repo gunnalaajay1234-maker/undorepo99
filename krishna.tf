@@ -2,5 +2,6 @@
     name = "ajay-rg1"
     location = "eastus"
 owneer = dev
+department -= hkjsjkl
   
 }
